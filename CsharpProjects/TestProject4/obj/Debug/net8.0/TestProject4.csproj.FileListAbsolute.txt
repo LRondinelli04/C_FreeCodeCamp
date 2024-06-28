@@ -1,0 +1,15 @@
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.exe
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.deps.json
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.runtimeconfig.json
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.dll
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\bin\Debug\net8.0\TestProject4.pdb
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.AssemblyInfoInputs.cache
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.AssemblyInfo.cs
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.csproj.CoreCompileInputs.cache
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.sourcelink.json
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.dll
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\refint\TestProject4.dll
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.pdb
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\TestProject4.genruntimeconfig.cache
+C:\Users\lrondinelli\Desktop\LRondinelli\C_FreeCodeCamp\CsharpProjects\TestProject4\obj\Debug\net8.0\ref\TestProject4.dll

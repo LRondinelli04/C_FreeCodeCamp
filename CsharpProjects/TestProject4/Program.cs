@@ -19,27 +19,21 @@ string myString = "C# Time";
 Console.WriteLine(myString.IndexOf('C'));
 
 // IndexOfAny devuelve la posición de la primera ocurrencia de uno de los caracteres especificados en un string
-string myString = "C# Time";
 Console.WriteLine(myString.IndexOfAny(new char[] { 'T', 'i' }));
 
 // LastIndexOf devuelve la posición de la última ocurrencia de un carácter o una cadena en un string
-string myString = "C# Time";
 Console.WriteLine(myString.LastIndexOf('e'));
 
 // Insert inserta una cadena en una posición específica de un string
-string myString = "C# Time";
-Console.WriteLine(myString.Insert(2, "is"));
+Console.WriteLine(myString.Insert(3, "is "));
 
 // Remove elimina un número específico de caracteres de un string
-string myString = "C# Time";
 Console.WriteLine(myString.Remove(2, 3));
 
 // Replace reemplaza todas las ocurrencias de un carácter o una cadena en un string
-string myString = "C# Time";
 Console.WriteLine(myString.Replace("C#", "VB.NET"));
 
 // Substring devuelve una parte de un string
-string myString = "C# Time";
 Console.WriteLine(myString.Substring(2, 3));
 
 

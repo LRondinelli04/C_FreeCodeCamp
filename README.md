@@ -1,2 +1,7 @@
 # Curso de C# en FreeCodeCamp
--   En este repositorio se encontrara el desarrollo del curso de C# proporcionado por FreeCodeCamp
+
+## Descripción
+
+Este repositorio contiene el desarrollo del curso de C# proporcionado por FreeCodeCamp. Aquí se recopilan los ejemplos prácticos realizados a lo largo del curso, que permiten afianzar los conocimientos adquiridos en este lenguaje de programación.
+
+
